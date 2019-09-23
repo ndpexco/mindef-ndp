@@ -1,0 +1,30 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Contact Us
+  url: /contact-us/
+- title: About Ndp
+  url: /about-ndp/
+- title: Apply For Tickets
+  url: /apply-for-tickets/
+- title: Ndp Highlights
+  url: /ndp-highlights/songs/
+  sub-links:
+  - title: Songs
+    url: /ndp-highlights/songs/
+  - title: Events
+    url: /ndp-highlights/events/
+  - title: Parade
+    url: /ndp-highlights/parade/
+- title: Press Release
+  url: /press-release/
+  sub-links:
+  - title: All
+    url: /press-release/
+  - title: News
+    url: /press-release/news/
+  - title: Events
+    url: /press-release/events/
